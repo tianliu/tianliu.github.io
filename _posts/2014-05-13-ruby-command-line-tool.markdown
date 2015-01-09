@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Ruby Trollop
-description: ""
-category:
-tags: Ruby Trollop
+date:   2014-05-10 
+categories: Ruby Trollop
 ---
 
 ###### _This blog was copied from internet._
