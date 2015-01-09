@@ -13,5 +13,4 @@ github_username:  tianliu
 # Build settings
 markdown: kramdown
 encoding: utf-8
-highlighter: rouge
-
+highlighter: pygments
