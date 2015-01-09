@@ -38,10 +38,10 @@ categories: jekyll update
 
 4. Install *selenium-webdriver* with npm.
 
-    *** 1) Open command line and go to uiauto folder. ***
+    *1) Open command line and go to uiauto folder.*
     
     ```npm install selenium-webdriver```
 
-    *** 2) Run by node: ***
+    *2) Run by node:*
     
     ```node fortest.js```
