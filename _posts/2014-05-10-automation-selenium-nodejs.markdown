@@ -14,7 +14,7 @@ categories: jekyll update
 	- Put chromedriver to ***PATH***.
 3. Created a new **.js** file. Add below code and save. (eg. **.js** named *fortest.js* and save to ***uiauto*** folder)
 
-	```
+	```javascript
 	var webdriver = require('selenium-webdriver');
  	var driver = new webdriver.Builder().
  	   withCapabilities(webdriver.Capabilities.chrome()).
